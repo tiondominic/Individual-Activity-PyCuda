@@ -1,3 +1,6 @@
+NAME: TION, JAMES DOMINIC P.
+SECTION: CS3C
+
 Environment Used -> LOCAL
 GPU -> NVIDIA GeForce RTX 3060 12GB
 CPU -> Intel Core i5-8400
